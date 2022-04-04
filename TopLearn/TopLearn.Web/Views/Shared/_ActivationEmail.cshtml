@@ -1,0 +1,13 @@
+﻿@model TopLearn.DataLayer.Entities.User.User
+
+<div style="direction: rtl; padding: 20px">
+    <h2>@Model.UserName عزیز!</h2>
+    <p>
+        جهت فعالسازی حساب کاربری خود روی لینک زیر کلیک کنید.
+    </p>
+    <p>
+        <a href="https://localhost:44381/Account/ActiveAccount/@Model.ActiveCode">
+            لینک فعاسازی
+        </a>
+    </p>
+</div>

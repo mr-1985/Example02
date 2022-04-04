@@ -1,0 +1,17 @@
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\bin\Debug\netcoreapp3.1\TopLearn.Core.deps.json
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\bin\Debug\netcoreapp3.1\TopLearn.Core.dll
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\bin\Debug\netcoreapp3.1\TopLearn.Core.pdb
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\obj\Debug\netcoreapp3.1\TopLearn.Core.AssemblyInfoInputs.cache
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\obj\Debug\netcoreapp3.1\TopLearn.Core.AssemblyInfo.cs
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\obj\Debug\netcoreapp3.1\TopLearn.Core.csproj.CoreCompileInputs.cache
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\obj\Debug\netcoreapp3.1\TopLearn.Core.dll
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\obj\Debug\netcoreapp3.1\TopLearn.Core.pdb
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\bin\Debug\netcoreapp3.1\TopLearn.DataLayer.dll
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\bin\Debug\netcoreapp3.1\TopLearn.DataLayer.pdb
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\obj\Debug\netcoreapp3.1\TopLearn.Core.csprojAssemblyReference.cache
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\obj\Debug\netcoreapp3.1\TopLearn.Core.csproj.CopyComplete
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\bin\Debug\netcoreapp3.1\TopLearn.Core.runtimeconfig.json
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\bin\Debug\netcoreapp3.1\TopLearn.Core.runtimeconfig.dev.json
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\obj\Debug\netcoreapp3.1\TopLearn.Core.genruntimeconfig.cache
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\obj\Debug\netcoreapp3.1\TopLearn.Core.csproj.AssemblyReference.cache
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.Core\obj\Debug\netcoreapp3.1\TopLearn.Core.GeneratedMSBuildEditorConfig.editorconfig

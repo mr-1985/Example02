@@ -1,0 +1,13 @@
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.DataLayer\bin\Debug\netcoreapp3.1\TopLearn.DataLayer.deps.json
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.DataLayer\bin\Debug\netcoreapp3.1\TopLearn.DataLayer.dll
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.DataLayer\bin\Debug\netcoreapp3.1\TopLearn.DataLayer.pdb
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp3.1\TopLearn.DataLayer.AssemblyInfoInputs.cache
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp3.1\TopLearn.DataLayer.AssemblyInfo.cs
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp3.1\TopLearn.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp3.1\TopLearn.DataLayer.dll
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp3.1\TopLearn.DataLayer.pdb
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.DataLayer\bin\Debug\netcoreapp3.1\TopLearn.DataLayer.runtimeconfig.json
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.DataLayer\bin\Debug\netcoreapp3.1\TopLearn.DataLayer.runtimeconfig.dev.json
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp3.1\TopLearn.DataLayer.genruntimeconfig.cache
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp3.1\TopLearn.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.R\source\repos\Core\Example02\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp3.1\TopLearn.DataLayer.csproj.AssemblyReference.cache
